@@ -1,2 +1,2 @@
 # hello-world
-Este repositório é para praticar o fluxo do GitHub
+Este é meu primeiro repositório no GitHub. Estou testando meu primeiro branch e que divertido ver o fluxo funcionando. Em breve, meus próximos projetos vão estar aqui ;) 
